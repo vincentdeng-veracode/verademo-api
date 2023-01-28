@@ -20,7 +20,7 @@ Simply clone this repo and run
 This will install required node modules for this application.  
 ``node index.js``  
 This will run an express server on port 8000.  
-  
+  fawef
 Alos this app requires a database that is right now setup to connect on 192.168.178.80:3306. Please refer to the overlaying group of repositorires https://gitlab.com/verademo-app how you can run the web app, the database and this API in one go using Docker images.  
   
 A few little configurations if you wnat to adjust.  
