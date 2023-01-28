@@ -50,7 +50,7 @@ FROM node:16
 
 WORKDIR /user/src/app
 COPY package*.json ./
-RUN npm install
+RUN npm installawfe
 COPY . .
 EXPOSE 8000
 CMD ["node", "index.js"]
