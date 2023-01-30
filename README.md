@@ -2,7 +2,7 @@
   awef
 # Verademo API  
   awefwaefaweffawef
-## What is this about  
+## What is this about  awef
 Verademo API is very simple API for the Verademo Java Application that can be found here: https://gitlab.com/verademo-app/verademo-web. It allows you to use almost the same functionality as the web application, only as an API.   
 It's used as a demo application to run static code analysis, software composition analysis and dynamic API scanning. There will be findings for all differnt type of scanning technologies.  awfe
 Static Findings  awefawefawefawef
