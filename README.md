@@ -27,7 +27,7 @@ A few little configurations if you wnat to adjust.
 It's configured to run on port 8000, if you want to change please change the code on ``index.js`` accordingly.  
 ```  
 app.listen(8000, () => {
-  console.log("Verademo API is ready to listen for requests");
+  console.log("Verademo API is ready to listen for requests");awef
 });
 ```  
 The database configuration is found on ``/config/db.config.js``, if you are using a different database or database connection please adjust this part of the code.  
