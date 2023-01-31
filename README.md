@@ -1,14 +1,14 @@
 <img src="https://help.veracode.com/internal/api/webapp/header/logo" width="200" /><br>  
-  
+  awef
 # Verademo API  
-  
-## What is this about  
+  awefwaefaweffawef
+## What is this about  awef
 Verademo API is very simple API for the Verademo Java Application that can be found here: https://gitlab.com/verademo-app/verademo-web. It allows you to use almost the same functionality as the web application, only as an API.   
-It's used as a demo application to run static code analysis, software composition analysis and dynamic API scanning. There will be findings for all differnt type of scanning technologies.  
-Static Findings  
-<img src="https://gitlab.com/verademo-app/verademo-api/-/raw/main/pictures/static_findings.png" width="800" />  
-  
-Dynamic Findings  
+It's used as a demo application to run static code analysis, software composition analysis and dynamic API scanning. There will be findings for all differnt type of scanning technologies.  awfe
+Static Findings  awefawefawefawef
+<img src="https://gitlab.com/verademo-app/verademo-api/-/raw/main/pictures/awefstatic_findings.png" width="800" />  
+  awef
+Dynamic Findings  awfe
 <img src="https://gitlab.com/verademo-app/verademo-api/-/raw/main/pictures/dynamic_findings.png" width="800" />  
   
 SCA Findings  
@@ -22,12 +22,12 @@ This will install required node modules for this application.
 This will run an express server on port 8000.  
   
 Alos this app requires a database that is right now setup to connect on 192.168.178.80:3306. Please refer to the overlaying group of repositorires https://gitlab.com/verademo-app how you can run the web app, the database and this API in one go using Docker images.  
-  
+  awfe
 A few little configurations if you wnat to adjust.  
 It's configured to run on port 8000, if you want to change please change the code on ``index.js`` accordingly.  
 ```  
 app.listen(8000, () => {
-  console.log("Verademo API is ready to listen for requests");
+  console.log("Verademo API is ready to listen for requests");awef
 });
 ```  
 The database configuration is found on ``/config/db.config.js``, if you are using a different database or database connection please adjust this part of the code.  
